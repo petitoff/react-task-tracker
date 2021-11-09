@@ -4,4 +4,4 @@ Prosta aplikacja, która umożliwia zarządzanie zadaniami. Możemy dodawać i u
 
 Aplikacja została napisany w JavaScript przy użyciu frameworka React.JS.
 
-Przetestuj aplikacje samemu: https://petitoff1.github.io/react-task-tracker/
+Przetestuj aplikacje samemu: https://petitoff.github.io/react-task-tracker/
